@@ -10,4 +10,5 @@ public class LoginTest extends BaseTest {
     public void loginTest(){
         open(getBaseUrl());
     }
+
 }
